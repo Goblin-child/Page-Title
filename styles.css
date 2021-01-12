@@ -1,0 +1,86 @@
+.photos{ 
+width:20px;
+    width:20%;
+    height:290px;
+display:flex;
+    
+    
+}
+h1{
+color:gold;
+    display:flex;
+    justify-content:center;
+    border-style:double;
+    font-size:xx-large;
+    
+}
+.maria{ 
+    font-size:small;
+ font-family:"font-size:small";
+ font-family:"Helvetica";
+    color:white;
+    color:white;
+    
+}
+.moment{background-color:#4d0000;}
+li{display:flex;
+justify-content:flex-end;
+    color:white;
+}
+img{
+    
+width:300px;
+    margin:10px;
+    border-style:double;
+    border:6px gold;
+    padding:4px;
+}
+.text{
+border-style:double;
+    padding:8px;
+    border-color:gold;
+    margin:2px;
+}
+h3{color:gold;
+display:flex;
+    justify-content:center;
+    font-size:large;
+    border-style:double;
+}
+h2{color:gold;
+display:flex;
+    justify-content:center;
+    font-size:large;
+    border-style:double;}
+.band{
+display:flex;
+    justify-content:center;
+    height:290px;
+}
+h4{
+font-size:medium;
+    color:white;
+}
+h5{font-size:medium;
+    color:white;}
+h6{font-size:medium;
+    color:white;}
+p {font-size:small;
+    color:white;}
+.pain{
+border-style:double;
+    border-color:#cca300;
+}
+.border{
+    border-style:double;
+    border-color:#cca300;
+    margin:190px;
+    padding:10px;
+}
+.website{border-style:double;
+    border-color:#cca300;
+    display:flex;
+    justify-content:center;
+font-size:medium;
+    color:white;
+}
